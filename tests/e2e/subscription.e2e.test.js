@@ -1,3 +1,4 @@
+// This file tests the complete subscription workflow.
 
 import {
   describe,
